@@ -1,1 +1,12 @@
-# my-first-website-2
+<!DOCTYPE html>
+<html>
+<head>
+    <title>موقعي الأول</title>
+</head>
+<body>
+
+    <h1>مرحباً بالعالم!</h1>
+    <p>هذا هو أول موقع ويب لي.</p>
+
+</body>
+</html>
